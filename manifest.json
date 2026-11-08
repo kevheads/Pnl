@@ -1,0 +1,12 @@
+{
+  "name": "P&L Calendar",
+  "short_name": "P&L",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "icons": [
+    {"src": "icon-512.png", "sizes": "192x192 512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
